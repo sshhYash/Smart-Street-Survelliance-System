@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+data/*
+!data/demo_videos/
+data/demo_videos/*
+!data/demo_videos/.keep
+runs/
+*.pt
+!models/.keep
